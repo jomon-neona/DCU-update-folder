@@ -1,0 +1,15 @@
+Copy rquired files to corresponding folder
+
+if need to update 
+
+DRIVER copy new driver to the /update_files/driver folder
+APPLIATION copy new application to the /update_files/application folder
+SCRIPTS copy new driver to the /update_files/scripts folder
+SERVER copy new driver to the /update_files/server folder
+
+
+compress dcu_update folder in tar.gz format
+
+upload new file using maintanance in the local server
+
+(WARNING!!! updating driver and app_checking_deamon.sh ethernet_checking.sh will reboot the system )
